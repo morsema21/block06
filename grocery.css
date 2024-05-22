@@ -1,0 +1,20 @@
+section {
+  display: inline-block;
+  width: 45%;
+  background-color: beige;
+  margin: 10px 10px 10px 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+h2 {
+  background-color: aliceblue;
+  color: olivedrab;
+  padding: 10px;
+}
+h3 {
+  color: navy;
+}
+img {
+  height: 125px;
+  padding-left: 80px;
+}
